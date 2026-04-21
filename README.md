@@ -1,4 +1,4 @@
-# 🪶 PlumePDF - Compresseur & Convertisseur PDF
+# 🪶 PlumePDF - Fusion, Compression & Convertision PDF
 
 ![License](https://img.shields.io/badge/license-GPLv3-blue.svg)
 ![PHP Version](https://img.shields.io/badge/PHP-%3E%3D7.4-8892BF.svg)
@@ -6,7 +6,7 @@
 
 > *"Léger comme une plume, silencieux comme un vol d'oiseau"*
 
-**PlumePDF** est un compresseur et convertisseur PDF avec une interface web élégante inspirée des nuages, des plumes et du vol des oiseaux. Conçu pour les serveurs XAMPP/LAMP, il permet de convertir des images (JPG, PNG, HEIC) en PDF et/ou de compresser des PDF existants, le tout directement depuis votre navigateur.
+**PlumePDF** fusionne, compresse et convertit PDF avec une interface web élégante inspirée des nuages, des plumes et du vol des oiseaux. Conçu pour les serveurs XAMPP/LAMP, il permet de convertir des images (JPG, PNG, HEIC) en PDF et/ou de fusionner et compresser des PDF existants, le tout directement depuis votre navigateur.
 
 ![PlumePDF Interface](screenshot.png)
 
